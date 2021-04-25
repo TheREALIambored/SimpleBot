@@ -1,6 +1,6 @@
 # LINKS:
 
-[SimpleBot Official Server](https://discord.gg/Kj7PU4M6HM)
+[SimpleBot Official Server](https://discord.gg/Kj7PU4M6HM) | 
 [Donation coming soon]()
 
 # ABOUT:
